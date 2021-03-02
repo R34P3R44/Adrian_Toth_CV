@@ -4,7 +4,7 @@ I was always fascinated by computers and making something in technology, so I bu
 Few years later changing from Hospitality to the Retail industry had given me new excitement but not as much as tech gives me. One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars. Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. I really enjoyed the process of becoming a junior full-stack developer and looking forward to applying my new skills in my first job opportunity.
 
 
-### Projects
+## Projects
 
 **MakersBnB:** A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads.
 
