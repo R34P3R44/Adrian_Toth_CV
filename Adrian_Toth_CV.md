@@ -39,11 +39,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 ## Experience
 
 Stock Administrator Eskandar, 12.2019 - 12.2020<br />
-I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
-This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
+* I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
+* This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
 Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019<br />
-Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle.<br />
-Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
+* Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle.<br />
+* Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
 Stock Controller - Holland and Holland, 11.2018 - 04.2019<br />
 Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations.<br /> 
 Coordinating and training the sales team about new stockroom standards and shipment procedures.<br />
