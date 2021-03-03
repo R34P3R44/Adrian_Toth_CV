@@ -1,7 +1,8 @@
 # Adrian Toth
 
 I was always fascinated by computers and making something in technology, so I built my first desktop PC at age 13. After successfully graduating as a law administrator I realised that I wasn't sure if I really wanted to work in a law firm. Years went by until one day I made a very bold decision, I bought a one way ticket to London.The “now or never” moment in my life, no safety net.
-Few years later changing from Hospitality to the Retail industry had given me new excitement but not as much as tech gives me. One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars. Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. I really enjoyed the process of becoming a junior full-stack developer and looking forward to applying my new skills in my first job opportunity.
+Few years later changing from Hospitality to the Retail industry had given me new excitement but not as much as tech gives me. One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars.
+Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. I really enjoyed the process of becoming a junior full-stack developer and looking forward to applying my new skills in my first job opportunity.
 
 
 ## Projects
@@ -32,7 +33,7 @@ Before signing up to Makers I learnt the basics of Ruby and had experience in Ja
 I have continued the above mentioned “pico CTF” challenges that are not only entertaining but teaches me about cyber security. Currently I'm learning the Unity game engine with C# and in the process of making my first fps micro game. 
 
 
-### Experience
+## Experience
 
 
 Stock Administrator Eskandar, 12.2019 - 12.2020
@@ -55,7 +56,7 @@ Bar Waiter - The Goring, July 2011- October 2012
 Delivering excellent customer service whilst coordinating the various daily food & beverage services. 
 Training and mentoring new waiting staff.
 
-### Education
+## Education
 
 2020 Makers Academy, London
 Object Oriented programming, Test Driven Development, Model View Controller
@@ -72,7 +73,7 @@ Law Administrator
 2003-2007 Petzelt József, Szentendre	
 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics				
 
-### Interests
+## Interests
 
 Gaming: Continuous development and testing of real life scenarios in a first person tactical shooter game called Arma 3. 
 
