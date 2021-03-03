@@ -8,7 +8,7 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 ## Projects
 
 #### **MakersBnB:** 
-<font size="10">A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads.</font>
+<font size="30"> A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads. </font>
 
 
 #### **Boris_bikes:** 
