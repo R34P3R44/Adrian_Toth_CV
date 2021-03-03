@@ -20,17 +20,17 @@ A 3D first person shooter micro game built with Unity engine using C# language. 
 
 ## Skills
 
-#### **Problem solving**
+### **Problem solving**
 
 I use my initiative and a  methodical approach to deal with problems. I used my  problem solving skills throughout the Makers course where I was constantly facing new challenges with either the code or finding a new approach to implement logic in my idea. I also had to be creative at my previous jobs where I figured out how a barcode scanner connected to a Surface Pro and an excel sheet can work together to help me conduct my stock take. Lately I started with “pico CTF”  where I made 1050 points in 4 hours competing in challenges that are all about reverse engineering, hacking and decrypting.
 
-#### **Teamwork**
+### **Teamwork**
 
 I began to master my collaboration and communication skills as a bar waiter at the Goring hotel. There I learned how to adapt to each of my colleagues and to their dynamics. I was working in a very busy bar where I had to ensure my team was able to cope with the ever changing landscape of different services as well as events. We were serving breakfast, lunch and dinner as well as afternoon tea. Some of the most challenging tasks were changing the layout between services during active service as well as managing lunch, afternoon tea and dinner service at the same time. This sounds pretty straight forward however most of the time we had late lunch reservations with early afternoon tea bookings and on top of that usually the last afternoon tea table stayed for dinner too. 
 
 Few years later I changed industries to Retail where I had the opportunity to further develop this skill as a stock controller at Holland & Holland and Matches Fashion. At both places I started developing a new team culture which required implementing new strategies to create a supportive, fun and efficient working environment. We started having regular morning meetings where we discussed the plans for the day as well as for the week and also celebrated each other's achievements. We redesigned our stockroom layout, supported each other with general help, training as well as whether it was a sale or a stock issue. I believe emotional safety is very important therefore we had regular one on one meetings with each other to ensure that everyone's voice was heard. 
 
-#### **Self-teaching**
+### **Self-teaching**
 
 Before signing up to Makers I learnt the basics of Ruby and had experience in Java and Python languages. In September 2020 I have started a 16 weeks full-time immersive course at Makers Academy.
 I have continued the above mentioned “pico CTF” challenges that are not only entertaining but teaches me about cyber security. Currently I'm learning the Unity game engine with C# and in the process of making my first fps micro game. 
@@ -39,25 +39,25 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 ## Experience
 
 
-Stock Administrator Eskandar, 12.2019 - 12.2020
-I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.
-This was a client facing position where I was taking care of customer orders and assisting with shipment details.
-Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019
-Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle. 
-Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction. 
-Stock Controller - Holland and Holland, 11.2018 - 04.2019
-Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations. 
-Coordinating and training the sales team about new stockroom standards and shipment procedures. 
-Stylist Assistant, 06.2018 - 11.2018
-Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018
-Porter - By Appointment, Harrods, 04.2016 - 05.2017
-Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016
-Business set-up for Starweb London branch, managing existing and potential clients.
-Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.
-Barista - Bar Boulud London, November 2012 – November 2014 
-Bar Waiter - The Goring, July 2011- October 2012 
-Delivering excellent customer service whilst coordinating the various daily food & beverage services. 
-Training and mentoring new waiting staff.
+- #### Stock Administrator Eskandar, 12.2019 - 12.2020
+       - I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head      office.
+       - This was a client facing position where I was taking care of customer orders and assisting with shipment details.
+- #### Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019
+       - Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle. 
+       - Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction. 
+- #### Stock Controller - Holland and Holland, 11.2018 - 04.2019
+       - Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations. 
+       - Coordinating and training the sales team about new stockroom standards and shipment procedures. 
+- #### Stylist Assistant, 06.2018 - 11.2018
+- #### Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018
+- #### Porter - By Appointment, Harrods, 04.2016 - 05.2017
+- #### Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016
+       - Business set-up for Starweb London branch, managing existing and potential clients.
+       - Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.
+- #### Barista - Bar Boulud London, November 2012 – November 2014 
+- #### Bar Waiter - The Goring, July 2011- October 2012 
+       - Delivering excellent customer service whilst coordinating the various daily food & beverage services. 
+       - Training and mentoring new waiting staff.
 
 ## Education
 
