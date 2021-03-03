@@ -47,8 +47,8 @@ Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019<br />
 * Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
 
 Stock Controller - Holland and Holland, 11.2018 - 04.2019<br />
-Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations.<br /> 
-Coordinating and training the sales team about new stockroom standards and shipment procedures.<br />
+* Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations.<br /> 
+* Coordinating and training the sales team about new stockroom standards and shipment procedures.<br />
 
 Stylist Assistant, 06.2018 - 11.2018<br />
 
@@ -57,14 +57,14 @@ Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018<br />
 Porter - By Appointment, Harrods, 04.2016 - 05.2017<br />
 
 Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016<br />
-Business set-up for Starweb London branch, managing existing and potential clients.<br />
-Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.<br />
+* Business set-up for Starweb London branch, managing existing and potential clients.<br />
+* Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.<br />
 
 Barista - Bar Boulud London, November 2012 – November 2014<br />
 
 Bar Waiter - The Goring, July 2011- October 2012<br />
-Delivering excellent customer service whilst coordinating the various daily food & beverage services.<br />
-Training and mentoring new waiting staff.<br />
+* Delivering excellent customer service whilst coordinating the various daily food & beverage services.<br />
+* Training and mentoring new waiting staff.<br />
 
 
 ## Education
