@@ -38,31 +38,31 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-Stock Administrator Eskandar, 12.2019 - 12.2020<br />
+**Stock Administrator Eskandar, 12.2019 - 12.2020**<br />
 * I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
 * This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
 
-Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019<br />
+**Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019**<br />
 * Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle.<br />
 * Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
 
-Stock Controller - Holland and Holland, 11.2018 - 04.2019<br />
+**Stock Controller - Holland and Holland, 11.2018 - 04.2019**<br />
 * Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations.<br /> 
 * Coordinating and training the sales team about new stockroom standards and shipment procedures.<br />
 
-Stylist Assistant, 06.2018 - 11.2018<br />
+**Stylist Assistant, 06.2018 - 11.2018**<br />
 
-Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018<br />
+**Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018**<br />
 
-Porter - By Appointment, Harrods, 04.2016 - 05.2017<br />
+**Porter - By Appointment, Harrods, 04.2016 - 05.2017**<br />
 
-Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016<br />
+**Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016**<br />
 * Business set-up for Starweb London branch, managing existing and potential clients.<br />
 * Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.<br />
 
-Barista - Bar Boulud London, November 2012 – November 2014<br />
+**Barista - Bar Boulud London, November 2012 – November 2014**<br />
 
-Bar Waiter - The Goring, July 2011- October 2012<br />
+**Bar Waiter - The Goring, July 2011- October 2012**<br />
 * Delivering excellent customer service whilst coordinating the various daily food & beverage services.<br />
 * Training and mentoring new waiting staff.<br />
 
