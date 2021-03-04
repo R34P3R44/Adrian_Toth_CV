@@ -38,7 +38,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-#### **Stock Administrator Eskandar, 12.2019 - 12.2020**<br />
+#### **Stock Administrator - Eskandar, 12.2019 - 12.2020**<br />
 * I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
 * This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
 
@@ -54,15 +54,15 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 **Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018**<br />
 
-**Porter - By Appointment, Harrods, 04.2016 - 05.2017**<br />
+**Porter - By Appointment - Harrods, 04.2016 - 05.2017**<br />
 
-**Junior Digital Marketing Executive, Starweb Agency, 11.2014 - 04.2016**<br />
+**Junior Digital Marketing Executive - Starweb Agency, 11.2014 - 04.2016**<br />
 * Business set-up for Starweb London branch, managing existing and potential clients.<br />
 * Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.<br />
 
-**Barista - Bar Boulud London, November 2012 – November 2014**<br />
+**Barista - Bar Boulud London, 11.2012 – 11.2014**<br />
 
-**Bar Waiter - The Goring, July 2011- October 2012**<br />
+**Bar Waiter - The Goring, 06.2011- 10.2012**<br />
 * Delivering excellent customer service whilst coordinating the various daily food & beverage services.<br />
 * Training and mentoring new waiting staff.<br />
 
