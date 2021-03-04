@@ -1,7 +1,10 @@
 # Adrian Toth
 
-I was always fascinated by computers and making something in technology, so I built my first desktop PC at age 13. After successfully graduating as a law administrator I realised that I wasn't sure if I really wanted to work in a law firm. Years went by until one day I made a very bold decision, I bought a one way ticket to London.The “now or never” moment in my life, no safety net.
-Few years later changing from Hospitality to the Retail industry had given me new excitement but not as much as tech gives me. One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars.
+I was always fascinated by computers and making something in technology, so I built my first desktop PC at age 13. 
+After successfully graduating as a law administrator I realised that I wasn't sure if I really wanted to work in a law firm. Years went by until one day I made a very bold decision, I bought a one way ticket to London.The “now or never” moment in my life, no safety net.
+Few years later changing from Hospitality to the Retail industry had given me new excitements but not as much as tech gives me. 
+
+One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars.
 Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. 
 
 ## Projects
@@ -15,7 +18,7 @@ The mock version of the famous bike app that lets people hire and return bikes. 
 
 
 #### **Escape:**
-A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, realistic damage dealt by enemies and upgraded weapons. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.
+A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, upgraded weapons, enemies will not only feel realstic in terms of the damage delt by them but also in movement and adaptation to the player.The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.
 
 ## Skills
 
