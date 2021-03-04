@@ -8,14 +8,27 @@ One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows w
 Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. 
 
 ## Projects
-### [**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)
-A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads.
 
-### [**Boris_bikes:**](https://github.com/R34P3R44/Boris_bikes)
-The mock version of the famous bike app that lets people hire and return bikes. Each station has a maximum capacity and checks if the bike is still working. Broken bikes will be accepted at all stations but wont be released until it is fixed.
-
-### **Escape:**
-A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, upgraded weapons, enemies will not only feel realstic in terms of the damage delt by them but also in movement and adaptation to the player. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.
+|        Title     |                    Description                                   |                  Link                     |
+|------------------|:----------------------------------------------------------------:|------------------------------------------:|
+| **MakersBnB:**   | A webapp that allows visitors to post and book                   | (https://github.com/R34P3R44/makers-bnb)
+                     properties for stay. You can register and sign 
+                     in or out, without an account the ads can be only 
+                     viewed on the website. Multiple properties can be added 
+                     to the hosts profiles. Homeowners can set the price, 
+                     availability and add a brief description to their ads.
+| **Boris_bikes:** | The mock version of the famous bike app that lets people         | (https://github.com/R34P3R44/Boris_bikes) |
+                     hire and return bikes. Each station has a maximum capacity 
+                     and checks if the bike is still working. Broken bikes will be 
+                     accepted at all stations but wont be released until it is fixed.
+| **Escape:**      | A 3D first person shooter micro game built with Unity engine     |                                           |
+                     using C# language. Some of the interesting features of the game 
+                     include 5 different custom built door animations, upgraded 
+                     weapons, enemies will not only feel realstic in terms of the 
+                     damage delt by them but also in movement and adaptation to the 
+                     player. The game itself is still in progress but this is only 
+                     including some final touches like post-processing and testing. 
+                     The initial date of completion is planned for 14.03.2021.        |                                           |
 
 ## Skills
 ### **Problem solving**
@@ -77,7 +90,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 **2003-2007 Petzelt József, Szentendre**<br />	
 * 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics	
-			
+
 ## Interests
 **Gaming:** Continuous development and testing of real life scenarios in a first person tactical shooter game called Arma 3. 
 **Hardware:**  I can always have a good chat about the latest computer components and their performances. One of my favourite topics is the quickly changing graphics cards.
