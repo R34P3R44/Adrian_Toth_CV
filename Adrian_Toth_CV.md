@@ -10,12 +10,12 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads.
 
 
-#### **Boris_bikes:** 
+#### [**Boris_bikes:**](https://github.com/R34P3R44/Boris_bikes)
 The mock version of the famous bike app that lets people hire and return bikes. Each station has a maximum capacity and checks if the bike is still working. Broken bikes will be accepted at all stations but wont be released until it is fixed.
 
 
 #### **Escape:**
-A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, realistic damage dealt by enemies and upgraded weapons. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 28.02.2021.
+A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, realistic damage dealt by enemies and upgraded weapons. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.
 
 ## Skills
 
@@ -68,20 +68,23 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Education
 
-2020 Makers Academy, London
-Object Oriented programming, Test Driven Development, Model View Controller
-Agile methodologies, Group projects, Pair programming	
-Ruby, Rails, JavaScript, HTML/CSS, React, Node		
-RSpec, Jasmine, GitHub, Heroku, PostgreSQL						
-2016 Shaw Academy, London			
-Digital Marketing Diploma					
-Understanding all key digital marketing channels such as SEO, PPC, Social Media, Affiliate, Content and Email. 
-Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
-Website and mobile usability best practices.
-2008-2010 Atalanta Education Centre, Budapest
-Law Administrator
-2003-2007 Petzelt József, Szentendre	
-7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics				
+**2020 Makers Academy, London**<br />
+* Object Oriented programming, Test Driven Development, Model View Controller
+* Agile methodologies, Group projects, Pair programming	
+* Ruby, Rails, JavaScript, HTML/CSS, React, Node		
+* RSpec, Jasmine, GitHub, Heroku, PostgreSQL
+
+**2016 Shaw Academy, London**<br />		
+* Digital Marketing Diploma					
+* Understanding all key digital marketing channels such as SEO, PPC, Social Media, Affiliate, Content and Email. 
+* Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
+* Website and mobile usability best practices.
+
+**2008-2010 Atalanta Education Centre, Budapest**<br />
+* Law Administrator
+
+**2003-2007 Petzelt József, Szentendre**<br />	
+* 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics				
 
 ## Interests
 
