@@ -21,9 +21,7 @@ The mock version of the famous bike app that lets people hire and return bikes. 
 A 3D first person shooter micro game built with Unity engine using C# language. This is a fun and thrilling game that is full of action. Some of the interesting features of the game include 5 different custom built door animations, upgraded weapons, enemies will not only feel realstic in terms of the damage delt by them but also in movement and adaptation to the player. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.
 
 ## Skills
-
 ### **Problem solving**
-
 I use my initiative and a  methodical approach to deal with problems. I used my problem solving skills throughout the Makers course where I was constantly facing new challenges with either the code or finding a new approach to implement logic in my idea. I also had to be creative at my previous roles where I figured out how a barcode scanner connected to a Surface Pro and an excel sheet can work together to help me conduct my annual stock take. Lately I started with “pico CTF”  where I made 1050 points in 4 hours competing in challenges that are all about reverse engineering, hacking and decrypting.
 
 ### **Teamwork**
@@ -40,11 +38,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-**####Stock Administrator - Eskandar, 12.2019 - 12.2020**<br />
+**Stock Administrator - Eskandar, 12.2019 - 12.2020**<br />
 * I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
 * This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
 
-**####Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019**<br />
+**Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019**<br />
 * Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle.<br />
 * Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
 
