@@ -8,7 +8,7 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 ## Projects
 
 #### **MakersBnB:** 
-<font size="30"> A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads. </font>
+A webapp that allows visitors to post and book properties for stay. You can register and sign in or out, without an account the ads can be only viewed on the website. Hosts can set the available dates for their properties but only a registered guest can rent out the place if it is available. Multiple properties can be added under the hosts profiles. Homeowners can set the price and add a brief description to their ads.
 
 
 #### **Boris_bikes:** 
@@ -22,7 +22,7 @@ A 3D first person shooter micro game built with Unity engine using C# language. 
 
 ### **Problem solving**
 
-I use my initiative and a  methodical approach to deal with problems. I used my  problem solving skills throughout the Makers course where I was constantly facing new challenges with either the code or finding a new approach to implement logic in my idea. I also had to be creative at my previous jobs where I figured out how a barcode scanner connected to a Surface Pro and an excel sheet can work together to help me conduct my stock take. Lately I started with “pico CTF”  where I made 1050 points in 4 hours competing in challenges that are all about reverse engineering, hacking and decrypting.
+I use my initiative and a  methodical approach to deal with problems. I used my  problem solving skills throughout the Makers course where I was constantly facing new challenges with either the code or finding a new approach to implement logic in my idea. I also had to be creative at my previous jobs where I figured out how a barcode scanner connected to a Surface Pro and an excel sheet can work together to help me conduct my annual stock take. Lately I started with “pico CTF”  where I made 1050 points in 4 hours competing in challenges that are all about reverse engineering, hacking and decrypting.
 
 ### **Teamwork**
 
@@ -38,7 +38,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-**Stock Administrator Eskandar, 12.2019 - 12.2020**<br />
+**<p style="font-size:30px"> Stock Administrator Eskandar, 12.2019 - 12.2020**<br /></p>
 * I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
 * This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
 
