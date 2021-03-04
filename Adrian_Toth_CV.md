@@ -70,17 +70,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * Understanding all key digital marketing channels such as SEO, PPC, Social Media, Affiliate, Content and Email. 
 * Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
 * Website and mobile usability best practices.
-
 **2008-2010 Atalanta Education Centre, Budapest**<br />
 * Law Administrator
-
 **2003-2007 Petzelt József, Szentendre**<br />	
 * 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics				
-
 ## Interests
-
 **Gaming:** Continuous development and testing of real life scenarios in a first person tactical shooter game called Arma 3. 
-
 **Hardware:**  I can always have a good chat about the latest computer components and their performances. One of my favourite topics is the quickly changing graphics cards.
-
 **Food:** I like to recreate classic dishes using different seasonings to discover new and interesting flavour combinations. Lately I'm experimenting with oven baked fish seasoned with ginger. 
