@@ -12,11 +12,11 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 |        Title     |                    Description                                   |                  Link                     |
 |------------------|:----------------------------------------------------------------:|------------------------------------------:|
 | **MakersBnB:**   | A webapp that allows visitors to post and book                   | (https://github.com/R34P3R44/makers-bnb)  |
-|                  | properties for stay. You can register and sign                   |                                           |
-|                  | in or out, without an account the ads can be only                |                                           |
-|                  | viewed on the website. Multiple properties can be added          |                                           |
-|                  | to the hosts profiles. Homeowners can set the price,             |                                           |
-|                  | availability and add a brief description to their ads.           |                                           | 
+|                    properties for stay. You can register and sign                   |                                           |
+|                    in or out, without an account the ads can be only                |                                           |
+|                    viewed on the website. Multiple properties can be added          |                                           |
+|                    to the hosts profiles. Homeowners can set the price,             |                                           |
+|                    availability and add a brief description to their ads.           |                                           | 
 | **Boris_bikes:** | The mock version of the famous bike app that lets people         | (https://github.com/R34P3R44/Boris_bikes) |
 |                  | hire and return bikes. Each station has a maximum capacity       |                                           |
 |                  | and checks if the bike is still working. Broken bikes will be    |                                           |
