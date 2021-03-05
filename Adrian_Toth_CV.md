@@ -11,25 +11,24 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 
 |        Title     |                    Description                                   |                  Link                     |
 |------------------|:----------------------------------------------------------------:|------------------------------------------:|
-| **MakersBnB:**   | A webapp that allows visitors to post and book                   | (https://github.com/R34P3R44/makers-bnb)
-                     properties for stay. You can register and sign 
-                     in or out, without an account the ads can be only 
-                     viewed on the website. Multiple properties can be added 
-                     to the hosts profiles. Homeowners can set the price, 
-                     availability and add a brief description to their ads.
-|------------------|:----------------------------------------------------------------:|--------------------------------                     
+| **MakersBnB:**   | A webapp that allows visitors to post and book                   | (https://github.com/R34P3R44/makers-bnb)  |
+|                  | properties for stay. You can register and sign                   |                                           |
+|                  | in or out, without an account the ads can be only                |                                           |
+|                  | viewed on the website. Multiple properties can be added          |                                           |
+|                  | to the hosts profiles. Homeowners can set the price,             |                                           |
+|                  | availability and add a brief description to their ads.           |                                           | 
 | **Boris_bikes:** | The mock version of the famous bike app that lets people         | (https://github.com/R34P3R44/Boris_bikes) |
-                     hire and return bikes. Each station has a maximum capacity 
-                     and checks if the bike is still working. Broken bikes will be 
-                     accepted at all stations but wont be released until it is fixed.
+|                  | hire and return bikes. Each station has a maximum capacity       |                                           |
+|                  | and checks if the bike is still working. Broken bikes will be    |                                           |
+|                  | accepted at all stations but wont be released until it is fixed. |                                           | 
 | **Escape:**      | A 3D first person shooter micro game built with Unity engine     |                                           |
-                     using C# language. Some of the interesting features of the game 
-                     include 5 different custom built door animations, upgraded 
-                     weapons, enemies will not only feel realstic in terms of the 
-                     damage delt by them but also in movement and adaptation to the 
-                     player. The game itself is still in progress but this is only 
-                     including some final touches like post-processing and testing. 
-                     The initial date of completion is planned for 14.03.2021.        |                                           |
+|                  | using C# language. Some of the interesting features of the game  |                                           | 
+|                  | include 5 different custom built door animations, upgraded       |                                           |
+|                  | weapons, enemies will not only feel realstic in terms of the     |                                           |
+|                  | damage delt by them but also in movement and adaptation to the   |                                           | 
+|                  | player. The game itself is still in progress but this is only    |                                           |
+|                  | including some final touches like post-processing and testing.   |                                           | 
+|                  | The initial date of completion is planned for 14.03.2021.        |                                           |
 
 ## Skills
 ### **Problem solving**
