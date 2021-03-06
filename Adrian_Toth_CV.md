@@ -7,16 +7,18 @@ Few years later changing from Hospitality to the Retail industry had given me ne
 One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars.
 Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. 
 
-## Projects
+## Projects                 
 
 |        Title     |                    Description                                   |                  Link                     |
 |------------------|:----------------------------------------------------------------:|------------------------------------------:|
-| **MakersBnB:**   | A webapp that allows visitors to post and book<br>            | (https://github.com/R34P3R44/makers-bnb)  |
-|                  | properties for stay. You can register and sign<br>            |                                           |
-|                  | in or out, without an account the ads can be only<br>         |                                           |
-|                  | viewed on the website. Multiple properties can be added<br>   |                                           |
-|                  | to the hosts profiles. Homeowners can set the price,<br>      |                                           |
-|                  | availability and add a brief description to their ads.</p>    |                                           |
+| **MakersBnB:**   |                                                                  | (https://github.com/R34P3R44/makers-bnb)  |
+A webapp that allows visitors to post and book<br>properties for stay. You can register and sign<br>in or out, without an account the ads can be only<br>viewed on the website. Multiple properties can be added<br>to the hosts profiles. Homeowners can set the price,<br>availability and add a brief description to their ads.
+|                  |             |                                           |
+|                  |          |                                           |
+|                  |    |                                           |
+|                  |       |                                           |
+|                  |         |                                           |
+                   
 | **Boris_bikes:** | The mock version of the famous bike app that lets people         | (https://github.com/R34P3R44/Boris_bikes) |
 |                  | hire and return bikes. Each station has a maximum capacity       |                                           |
 |                  | and checks if the bike is still working. Broken bikes will be    |                                           |
