@@ -11,12 +11,12 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 
 |        Title     |                    Description                                   |                  Link                     |
 |------------------|:----------------------------------------------------------------:|------------------------------------------:|
-| **MakersBnB:**   | <p>A webapp that allows visitors to post and book<br>            | (https://github.com/R34P3R44/makers-bnb)  |
-|                  | <p>properties for stay. You can register and sign<br>            |                                           |
-|                  | <p>in or out, without an account the ads can be only<br>         |                                           |
-|                  | <p>viewed on the website. Multiple properties can be added<br>   |                                           |
-|                  | <p>to the hosts profiles. Homeowners can set the price,<br>      |                                           |
-|                  | <p>availability and add a brief description to their ads.</p>    |                                           |
+| **MakersBnB:**   | A webapp that allows visitors to post and book<br>            | (https://github.com/R34P3R44/makers-bnb)  |
+|                  | properties for stay. You can register and sign<br>            |                                           |
+|                  | in or out, without an account the ads can be only<br>         |                                           |
+|                  | viewed on the website. Multiple properties can be added<br>   |                                           |
+|                  | to the hosts profiles. Homeowners can set the price,<br>      |                                           |
+|                  | availability and add a brief description to their ads.</p>    |                                           |
 | **Boris_bikes:** | The mock version of the famous bike app that lets people         | (https://github.com/R34P3R44/Boris_bikes) |
 |                  | hire and return bikes. Each station has a maximum capacity       |                                           |
 |                  | and checks if the bike is still working. Broken bikes will be    |                                           |
