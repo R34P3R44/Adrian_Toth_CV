@@ -8,7 +8,6 @@ One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows w
 Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy.                  
 
 ## Projects
-|-------------------------------------------------------------------------------------------------------------------------------|
 | <div align="left">[**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)</div>|
 | A webapp that allows visitors to post and book properties for stay. You can register and sign in or out,<br>without an account the ads can be only viewed on the website. Multiple properties can be added<br>to the hosts profiles. Homeowners can set the price, availability and add a brief description to their ads.|
 | <div align="left">[**Boris_bikes**](https://github.com/R34P3R44/Boris_bikes)|
