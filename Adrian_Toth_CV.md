@@ -79,6 +79,6 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics	
 
 ## Interests
-**Gaming:** Continuous development and testing of real life scenarios in a first person tactical shooter game called Arma 3. 
-**Hardware:**  I can always have a good chat about the latest computer components and their performances. One of my favourite topics is the quickly changing graphics cards.
+**Gaming:** Continuous development and testing of real life scenarios in a first person tactical shooter game called Arma 3.<br> 
+**Hardware:**  I can always have a good chat about the latest computer components and their performances. One of my favourite topics is the quickly changing graphics cards.<br>
 **Food:** I like to recreate classic dishes using different seasonings to discover new and interesting flavour combinations. Lately I'm experimenting with oven baked fish seasoned with ginger. 
