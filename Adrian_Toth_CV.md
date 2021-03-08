@@ -11,8 +11,8 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 
 |                                               <div align="center">Project</div>                                               |
 |-------------------------------------------------------------------------------------------------------------------------------|
-| <div align="center">[**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)</div>|<div align="center">[**Boris_bikes**](https://github.com/R34P3R44/Boris_bikes)
-| A webapp that allows visitors to post and book<br>properties for stay. You can register and sign<br>in or out, without an account the ads can be only<br>viewed on the website. Multiple properties can be added<br>to the hosts profiles. Homeowners can set the price,<br>availability and add a brief description to their ads.| The mock version of the famous bike app<br>that lets people hire and return bikes.<br>Each station has a maximum capacity and checks if the bike<br>is still working. Broken bikes will be accepted at all stations<br>but wont be released until it is fixed.|
+| <div align="center">[**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)</div>|
+| A webapp that allows visitors to post and book<br>properties for stay. You can register and sign<br>in or out, without an account the ads can be only<br>viewed on the website. Multiple properties can be added<br>to the hosts profiles. Homeowners can set the price,<br>availability and add a brief description to their ads.|<div align="center">[**Boris_bikes**](https://github.com/R34P3R44/Boris_bikes)| The mock version of the famous bike app<br>that lets people hire and return bikes.<br>Each station has a maximum capacity and checks if the bike<br>is still working. Broken bikes will be accepted at all stations<br>but wont be released until it is fixed.|
 |
 | **Escape:**      | A 3D first person shooter micro game built with Unity engine     |                                           |
 |                  | using C# language. Some of the interesting features of the game  |                                           | 
