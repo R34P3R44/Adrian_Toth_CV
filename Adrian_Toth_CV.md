@@ -5,17 +5,15 @@ After successfully graduating as a law administrator I realised that I wasn't su
 Few years later changing from Hospitality to the Retail industry had given me new excitements but not as much as tech gives me. 
 
 One day in 2019 I was browsing for tutorials on how to run a Mac OS on Windows when I stumbled across videos where someone was teaching people how to make games using Python language. This was the moment when I decided to teach myself the basics of Python and build my first ever game using the turtle module. The success of this project really empowered me and I looked for further studies on Codecademy and Codewars.
-Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy. 
+Few months later I enrolled in a 16 weeks intensive coding course at Makers Academy.                  
 
-## Projects                 
-
-|                                              <div align="center">Projects</div>                                               |
+|                                              <div align="left">## Projects</div>                                              |
 |-------------------------------------------------------------------------------------------------------------------------------|
-| <div align="center">[**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)</div>|
+| <div align="left">[**MakersBnB:**](https://github.com/R34P3R44/makers-bnb)</div>|
 | A webapp that allows visitors to post and book properties for stay. You can register and sign in or out,<br>without an account the ads can be only viewed on the website. Multiple properties can be added<br>to the hosts profiles. Homeowners can set the price, availability and add a brief description to their ads.|
-| <div align="center">[**Boris_bikes**](https://github.com/R34P3R44/Boris_bikes)|
+| <div align="left">[**Boris_bikes**](https://github.com/R34P3R44/Boris_bikes)|
 |The mock version of the famous bike app that lets people hire and return bikes. Each station has a<br>maximum capacity and checks if the bike is still working. Broken bikes will be accepted at all stations but wont be released until it is fixed.|
-| <div align="center">[**Escape:**]()</div>|
+| <div align="left">[**Escape:**]()</div>|
 | A 3D first person shooter micro game built with Unity engine using C# language. Some of the interesting features of the game include 5 different custom built door animations, upgraded weapons, enemies will not only feel realstic in terms of the damage delt by them but also in movement and adaptation to the player. The game itself is still in progress but this is only including some final touches like post-processing and testing. The initial date of completion is planned for 14.03.2021.|
 
 ## Skills
