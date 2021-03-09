@@ -15,7 +15,7 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 | <div align="left">[**<ins>Boris bikes:</ins>**](https://github.com/R34P3R44/Boris_bikes)|
 |The mock version of the famous bike app that lets people hire and return bikes.<br>Each station has a maximum capacity and checks if the bike is still working.<br>Broken bikes will be accepted at all stations but wont be released until it is fixed.|
 | <div align="left">[**<ins>Escape:</ins>**]()</div>|
-| A 3D first person shooter micro game built with Unity engine using C# language.<br>Some of the interesting features of the game include 5 different custom built door<br>animations, upgraded weapons, enemies will not only feel realstic in terms of the<br>damage delt by them but also in movement and adaptation to the player. The game itself is still in progress but this is only including some<br>final touches like post-processing<br>and testing. The initial date of completion is planned for 14.03.2021.|
+| A 3D first person shooter micro game built with Unity engine using C# language.<br>Some of the interesting features of the game include 5 different custom built door<br>animations, upgraded weapons, enemies will not only feel realstic in terms of the<br>damage delt by them but also in movement and adaptation to the player. The game<br>itself is still in progress but this is only including some final touches like post-processing<br>and testing. The initial date of completion is planned for 14.03.2021.|
 
 ## Skills
 ### **Problem solving**
