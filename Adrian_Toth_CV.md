@@ -11,7 +11,7 @@ Few months later I enrolled in a 16 weeks intensive coding course at Makers Acad
 
 | <div align="left">[**<ins>MakersBnB:</ins>**](https://github.com/R34P3R44/makers-bnb)</div>|   Tech used                      |
 |--------------------------------------------------------------------------------------------|----------------------------------|
-| A webapp that allows visitors to post and book properties for stay. You can register<br>and sign in or out, without an account the ads can be only viewedon the website.<br>Multiple properties can be added to the host's profiles. Homeowners<br>can set the price, availability and add a brief description to their ads.|
+| A webapp that allows visitors to post and book properties for stay. You can register<br>and sign in or out, without an account the ads can be only viewedon the website.<br>Multiple properties can be added to the host's profiles. Homeowners can set the price,<br>availability and add a brief description to their ads.|
 | <div align="left">[**<ins>Boris bikes:</ins>**](https://github.com/R34P3R44/Boris_bikes)|
 |The mock version of the famous bike app that lets people hire and return<br>bikes. Each station has a maximum capacity and checks if the bike is still working.<br>Broken bikes will be accepted at all stations but wont be released until it is fixed.|
 | <div align="left">[**<ins>Escape:</ins>**]()</div>|
