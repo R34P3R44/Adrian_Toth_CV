@@ -41,41 +41,12 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * The latter mentioned also included team meetings and one on one coaching where I used my management skills and emotional intelligence.<br />
 * My customer service skills were also playing a key part in my roles as I was often helping out on the shopfloor or actually taking care of clients at Eskandar and Dolce & Gabbana.<br />
 
-**Stock Administrator - Eskandar, 12.2019 - 12.2020**<br />
-* I was taking care of the daily running of the office which included operational duties, liaising directly with COO and Head office.<br />
-* This was a client facing position where I was taking care of customer orders and assisting with shipment details.<br />
-
-**Stock Coordinator - Photo Studio, Matchesfashion, 06.2019 - 12.2019**<br />
-* Supervising and training a team of two, implementing new stockroom standards/procedures and working closely with various departments in the production cycle.<br />
-* Continuously looking at ways to improve stock team, customer relationships and increase customer satisfaction.<br />
-
-**Stock Controller - Holland and Holland, 11.2018 - 04.2019**<br />
-* Working closely with the Retail director, Buyers manager on the smooth organisation of multiple locations.<br /> 
-* Coordinating and training the sales team about new stockroom standards and shipment procedures.<br />
-
-**Stylist Assistant, 06.2018 - 11.2018**<br />
-
-**Stock Controller - Dolce & Gabbana, 05.2017 - 05.2018**<br />
-
-**Porter - By Appointment - Harrods, 04.2016 - 05.2017**<br />
-
-**Junior Digital Marketing Executive - Starweb Agency, 11.2014 - 04.2016**<br />
-* Business set-up for Starweb London branch, managing existing and potential clients.<br />
-* Monitoring marketing campaigns with Google Webmaster, A/B testing, PPC optimisation.<br />
-
 **Various Hospitality positions between: 06.2011 - 11.2014**<br />
 
 * My customer service skills were integral to provide the best experience for my customers.<br />
 * Having worked as Bar Waiter and Barista has given me the opportunity to develop strong communication and organisational skills.<br />
 * Both of these positions required multitasking in a fast paced environment where I was always ready to use my problem solving skills to manage stressful situations.<br />
 * Attention to details was crucial to maintaining the high standards whilst serving customers as this has had a positive impact on the overall customer experience<br />
-
-**Barista - Bar Boulud London, 11.2012 – 11.2014**<br />
-
-**Bar Waiter - The Goring, 06.2011- 10.2012**<br />
-* Delivering excellent customer service whilst coordinating the various daily food & beverage services.<br />
-* Training and mentoring new waiting staff.<br />
-
 
 ## Education
 **2020 Makers Academy, London**<br />
