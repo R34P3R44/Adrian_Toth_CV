@@ -27,12 +27,12 @@ I began to master my collaboration and communication skills as a bar waiter at t
 
 Few years later I changed industries to Retail where I had the opportunity to further develop this skill as a stock controller at Holland & Holland and Matches Fashion. At both places I started developing a new team culture which required implementing new strategies to create a supportive, fun and efficient working environment. We started having regular morning meetings where we discussed the plans for the day as well as for the week and also celebrated each other's achievements. We redesigned our stockroom layout, supported each other with general help, training as well as whether it was a sale or a stock issue. I believe emotional safety is very important therefore we had regular one on one meetings with each other to ensure that everyone's voice was heard. 
 ### **Self-teaching**
-Before signing up to Makers I learnt the basics of Ruby and had experience in Java and Python languages. In September 2020 I have started a 16 weeks full-time immersive course at Makers Academy.
-I have continued the above mentioned “pico CTF” challenges that are not only entertaining but teaches me about cyber security. Currently I'm learning the Unity game engine with C# and in the process of making my first fps micro game. 
+Before signing up to Makers I learnt the basics of Ruby and had experience in Java and Python languages. In September 2020 I have started a 16 weeks full-time immersive course at Makers Academy where I learned how to build web applications and deployed 2 web apps within 6 weeks with full test coverage.
+I have continued the above mentioned “pico CTF” challenges that are not only entertaining but teaches me about cyber security. I got very familiar with the Unity game engine as well as C# and finished my FPS shooter game within few months. Recently started learning iOS decvelopment and Swift and im currently half way through building my first iOS app. 
 
 ## Experience
 
-**<u>Various Stock controller positions: 04.2016 - Present**</u><br />
+**Various Stock controller positions: 04.2016 - Present**<br />
 
 * Throughout my retail career in high fashion my communication skills were vital to be able to work effectively in larger teams and liaise with various departments.<br /> 
 * Managing all aspects of a stock controller position has contributed towards developing strong organisational skills and time management.<br />
@@ -41,7 +41,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * The latter mentioned also included team meetings and one on one coaching where I used my management skills and emotional intelligence.<br />
 * My customer service skills were also playing a key part in my roles as I was often helping out on the shopfloor or actually taking care of clients at Eskandar and Dolce & Gabbana.<br />
 
-**<u>Various Hospitality positions between: 06.2011 - 11.2014**</u><br />
+**Various Hospitality positions between: 06.2011 - 11.2014**<br />
 
 * My customer service skills were integral to provide the best experience for my customers.<br />
 * Having worked as Bar Waiter and Barista has given me the opportunity to develop strong communication and organisational skills.<br />
@@ -57,14 +57,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.<br /> 
 * Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.<br />
 
-**Languages and web frameworks:**<br />
-  Ruby, CSS, HTML, Rails, Sinatra,<br />
-  React, JavaScript, Node JS,<br />
-**Test frameworks and database:**<br />
-  PostgreSQL, RSpec,<br />
-  Travis CI, Capybara, Bootstrap<br />
-**Web services:**<br />
-  Vercel, Heroku
+**Languages and web frameworks:** Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
+
+**Test frameworks and database:** PostgreSQL, RSpec,Travis CI, Capybara, Bootstrap<br />
+
+**Web services:** Vercel, Heroku
 
 
 
