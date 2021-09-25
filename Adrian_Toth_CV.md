@@ -49,11 +49,23 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * Attention to details was crucial to maintaining the high standards whilst serving customers as this has had a positive impact on the overall customer experience<br />
 
 ## Education
-**2020 Makers Academy, London**<br />
-* Object Oriented programming, Test Driven Development, Model View Controller
-* Agile methodologies, Group projects, Pair programming	
-* Ruby, Rails, JavaScript, HTML/CSS, React, Node		
-* RSpec, Jasmine, GitHub, Heroku, PostgreSQL
+**Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020**<br />
+
+* There was a strong focus on pair programming and group projects therefore my interpersonal and communication skills were essential to work smoothly with others as well as on the daily meetings.<br />
+* I have also used my teamwork skills during daily pair programming and group projects building a mockup version of Facebook and Airbnb web applications.<br />
+* I used attention to details which helped me write clean code and also allowed me to debug code effectively.<br />
+* My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.<br /> 
+* Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.<br />
+
+**Languages and web frameworks:           Test frameworks and database:           Web services:**<br />
+  Ruby, CSS, HTML, Rails, Sinatra,        PostgreSQL, RSpec,                      Vercel, Heroku
+  React, JavaScript, Node JS,             Travis CI, Capybara, Bootstrap
+
+
+
+
+
+
 
 **2016 Shaw Academy, London**<br />		
 * Digital Marketing Diploma					
