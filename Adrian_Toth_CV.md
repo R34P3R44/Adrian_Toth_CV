@@ -51,11 +51,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 ## Education
 ### **<ins>Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020</ins>**<br />
 
-* There was a strong focus on pair programming and group projects therefore my interpersonal and communication skills were essential to work smoothly with others as well as on the daily meetings.<br />
-* I have also used my teamwork skills during daily pair programming and group projects building a mockup version of Facebook and Airbnb web applications.<br />
-* I used attention to details which helped me write clean code and also allowed me to debug code effectively.<br />
-* My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.<br /> 
-* Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.<br />
+* There was a strong focus on pair programming and group projects therefore my interpersonal and communication skills were essential to work smoothly with others as well as on the daily meetings.
+* I have also used my teamwork skills during daily pair programming and group projects building a mockup version of Facebook and Airbnb web applications.
+* I used attention to details which helped me write clean code and also allowed me to debug code effectively.
+* My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.
+* Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.
 
     **<ins>Languages and web frameworks:</ins>** Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
 
