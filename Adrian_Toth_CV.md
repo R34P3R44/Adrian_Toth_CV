@@ -49,7 +49,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * Attention to details was crucial to maintaining the high standards whilst serving customers as this has had a positive impact on the overall customer experience<br />
 
 ## Education
-**Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020**<br />
+### **Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020**<br />
 
 * There was a strong focus on pair programming and group projects therefore my interpersonal and communication skills were essential to work smoothly with others as well as on the daily meetings.<br />
 * I have also used my teamwork skills during daily pair programming and group projects building a mockup version of Facebook and Airbnb web applications.<br />
@@ -57,22 +57,22 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.<br /> 
 * Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.<br />
 
-<u> Languages and web frameworks: </u> Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
+**<ins>Languages and web frameworks:</ins>** Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
 
-<u> Test frameworks and database: </u> PostgreSQL, RSpec,Travis CI, Capybara, Bootstrap<br />
+**<ins>Test frameworks and database:</ins>** PostgreSQL, RSpec,Travis CI, Capybara, Bootstrap<br />
 
-<u> Web services: </u> Vercel, Heroku
+**<ins>Web services:</ins>** Vercel, Heroku
 
-**2016 Shaw Academy, London**<br />		
+### **2016 Shaw Academy, London**<br />		
 * Digital Marketing Diploma					
 * Understanding all key digital marketing channels such as SEO, PPC, Social Media, Affiliate, Content and Email. 
 * Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
 * Website and mobile usability best practices.
 
-**2008-2010 Atalanta Education Centre, Budapest**<br />
+### **2008-2010 Atalanta Education Centre, Budapest**<br />
 * Law Administrator
 
-**2003-2007 Petzelt József, Szentendre**<br />	
+### **2003-2007 Petzelt József, Szentendre**<br />	
 * 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics	
 
 ## Interests
