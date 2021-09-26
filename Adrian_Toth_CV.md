@@ -32,7 +32,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-### **Various Stock controller positions: 04.2016 - Present**<br />
+### **<ins>Various Stock controller positions: 04.2016 - Present</ins>**<br />
 
 * Throughout my retail career in high fashion my communication skills were vital to be able to work effectively in larger teams and liaise with various departments.<br /> 
 * Managing all aspects of a stock controller position has contributed towards developing strong organisational skills and time management.<br />
@@ -41,7 +41,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * The latter mentioned also included team meetings and one on one coaching where I used my management skills and emotional intelligence.<br />
 * My customer service skills were also playing a key part in my roles as I was often helping out on the shopfloor or actually taking care of clients at Eskandar and Dolce & Gabbana.<br />
 
-### **Various Hospitality positions between: 06.2011 - 11.2014**<br />
+### **<ins>Various Hospitality positions between: 06.2011 - 11.2014</ins>**<br />
 
 * My customer service skills were integral to provide the best experience for my customers.<br />
 * Having worked as Bar Waiter and Barista has given me the opportunity to develop strong communication and organisational skills.<br />
@@ -49,7 +49,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * Attention to details was crucial to maintaining the high standards whilst serving customers as this has had a positive impact on the overall customer experience<br />
 
 ## Education
-### **Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020**<br />
+### **<ins>Software Engineering Student - Makers Academy, London: 09.2020 - 12.2020</ins>**<br />
 
 * There was a strong focus on pair programming and group projects therefore my interpersonal and communication skills were essential to work smoothly with others as well as on the daily meetings.<br />
 * I have also used my teamwork skills during daily pair programming and group projects building a mockup version of Facebook and Airbnb web applications.<br />
