@@ -63,16 +63,16 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 **<ins>Web services:</ins>** Vercel, Heroku
 
-### **2016 Shaw Academy, London**<br />		
+### **<ins>2016 Shaw Academy, London</ins>**<br />		
 * Digital Marketing Diploma					
 * Understanding all key digital marketing channels such as SEO, PPC, Social Media, Affiliate, Content and Email. 
 * Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
 * Website and mobile usability best practices.
 
-### **2008-2010 Atalanta Education Centre, Budapest**<br />
+### **<ins>2008-2010 Atalanta Education Centre, Budapest</ins>**<br />
 * Law Administrator
 
-### **2003-2007 Petzelt József, Szentendre**<br />	
+### **<ins>2003-2007 Petzelt József, Szentendre**</ins><br />	
 * 7 GCSE, Hospitality foundation, Tourism, Business foundation, Home economics	
 
 ## Interests
