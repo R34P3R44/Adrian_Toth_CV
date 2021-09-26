@@ -69,7 +69,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * Defining target audiences, objectives and KPIs, creating paid campaigns for social media and search engines. 
 * Website and mobile usability best practices.
 
-### **<ins>2008-2010 Atalanta Education Centre,Law Administrator, Budapest</ins>**<br />
+### **<ins>2008-2010 Atalanta Education Centre, Law Administrator, Budapest</ins>**<br />
 * During the course I have used attention to detail and time management skills whilst studying towards my Legal Secretarial diploma. 
 * I have completed my assignments with strict deadlines throughout the course to gain more insight into Legal Administration work and the Legal System.
 
