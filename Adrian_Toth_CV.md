@@ -57,11 +57,11 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * My time management skills were essential as the weekly routine was independent learning in the morning, pair programming on a project throughout the week in the afternoons and individual projects to complete over the weekend.
 * Since finishing the bootcamp I've started learning Swift and C# building a game and an application in order to maintain best practices and high coding quality standards.
 
-    **<ins>Languages and web frameworks:</ins>** Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
+**<ins>Languages and web frameworks:</ins>** Ruby, CSS, HTML, Rails, Sinatra,React, JavaScript, Node JS<br />
 
-    **<ins>Test frameworks and database:</ins>** PostgreSQL, RSpec,Travis CI, Capybara, Bootstrap<br />
+**<ins>Test frameworks and database:</ins>** PostgreSQL, RSpec,Travis CI, Capybara, Bootstrap<br />
 
-    **<ins>Web services:</ins>** Vercel, Heroku
+**<ins>Web services:</ins>** Vercel, Heroku
 
 ### **<ins>2016 Shaw Academy, London</ins>**<br />		
 * Digital Marketing Diploma					
