@@ -32,7 +32,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 
 ## Experience
 
-**Various Stock controller positions: 04.2016 - Present**<br />
+### **Various Stock controller positions: 04.2016 - Present**<br />
 
 * Throughout my retail career in high fashion my communication skills were vital to be able to work effectively in larger teams and liaise with various departments.<br /> 
 * Managing all aspects of a stock controller position has contributed towards developing strong organisational skills and time management.<br />
@@ -41,7 +41,7 @@ I have continued the above mentioned “pico CTF” challenges that are not only
 * The latter mentioned also included team meetings and one on one coaching where I used my management skills and emotional intelligence.<br />
 * My customer service skills were also playing a key part in my roles as I was often helping out on the shopfloor or actually taking care of clients at Eskandar and Dolce & Gabbana.<br />
 
-**Various Hospitality positions between: 06.2011 - 11.2014**<br />
+### **Various Hospitality positions between: 06.2011 - 11.2014**<br />
 
 * My customer service skills were integral to provide the best experience for my customers.<br />
 * Having worked as Bar Waiter and Barista has given me the opportunity to develop strong communication and organisational skills.<br />
